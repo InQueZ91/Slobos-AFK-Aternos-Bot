@@ -1221,6 +1221,8 @@ function createBot() {
       version: botVersion,
       hideErrors: false,
       checkTimeoutInterval: 600000,
+      connectTimeout: 120000,  // ← add this
+      closeTimeout: 120000,    // ← add this too
     });
 
     bot.loadPlugin(pathfinder);
