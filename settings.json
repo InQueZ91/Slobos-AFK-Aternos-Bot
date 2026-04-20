@@ -8,7 +8,7 @@
   "server": {
     "ip": "QueZsLand.aternos.me",
     "port": 20179,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,15 +19,15 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
