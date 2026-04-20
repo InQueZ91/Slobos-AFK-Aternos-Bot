@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "QueZsLand.aternos.me",
+    "ip": "QueZsLand.aternos.me:20179",
     "port": 20179,
     "version": "1.21.11",
     "try-creative": false
