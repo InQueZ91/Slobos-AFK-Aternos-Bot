@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Steve",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "QueZsLand.aternos.me",
     "port": 20179,
-    "version": "1.8",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
