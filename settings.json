@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "QueZsLand.aternos.me",
-    "port": 20179,
+    "port": ,
     "version": "1.21.1",
     "try-creative": false
   },
